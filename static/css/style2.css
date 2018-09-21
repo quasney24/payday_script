@@ -1,0 +1,33 @@
+/*index.html*/
+body{
+	background-color: black;
+	height:2000px;
+	font-family: 'Source Serif Pro', serif;
+}
+.container{
+	background-color: white;
+	height:auto;
+}
+
+#main{
+	margin-top:10%;
+}
+
+#main_title{
+	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+	font-size:100px;
+	border:solid black 1px;
+	border-radius: 20px;
+	margin:20%;
+}
+
+#header_1{
+	font-family: 'Source Serif Pro', serif;
+	margin-top:5%;
+}
+
+hr{
+	box-shadow: 2px;
+	margin-top: 2%;
+}

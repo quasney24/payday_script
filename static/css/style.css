@@ -1,0 +1,10 @@
+body{
+	background-color: black;
+	height:100%;
+	font-family: 'Source Serif Pro', serif;
+}
+.container{
+	background-color: white;
+	height:800px;
+
+}
